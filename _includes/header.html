@@ -1,0 +1,40 @@
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>{%if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}</title>
+    <meta name="description" content="cyber@cFREG">
+    <meta name="author" description="Charles_">
+    <!--<link rel="shortcut icon" type="image/x-icon" href="assets/images/favicon/favicon.ico"> -->
+    <link rel="stylesheet" type="text/css" href="http://fonts.googleapis.com/css?family=Oxygen:400,300,700">
+    <link rel="stylesheet" href="{{ "/fonts/articoextracondensed_extralight_macroman/stylesheet.css" | prepend: site.baseurl | replace: '//', '/' }}" type="text/css" charset="utf-8" />
+    <!-- <link rel="stylesheet" type="text/css" href="assets/css/style.css?v8">
+     -->
+    <link rel="stylesheet" href="{{ "/css/style.css" | prepend: site.baseurl | replace: '//', '/' }}">
+</head>
+
+<body>
+    <nav class="nav">
+        <div class="container">
+            <div class="logo">
+                <a href="#">cyber@cFREG</a>
+            </div>
+            <div id="mainListDiv" class="main_list">
+                <ul class="navlinks">
+                    <li><a href="#">Home</a></li>
+                    <li><a href="#">About</a></li>
+                    <li><a href="#">Events</a></li>
+                    <li><a href="#">Resources</a></li>
+                    <li><a href="#">Contact</a></li>
+                </ul>
+            </div>
+            <span class="navTrigger">
+                <i></i>
+                <i></i>
+                <i></i>
+            </span>
+        </div>
+    </nav>
+<div class="parallax">
+    <a id="section1" href="#info"><span></span>Scroll</a>
+</div>
+<div id="site-content">
