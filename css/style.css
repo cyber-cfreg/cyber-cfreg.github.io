@@ -18,6 +18,7 @@ body {
 /* Navbar section */
 
 .nav {
+    background-color: #2A2A2A;
     width: 100%;
     height: 65px;
     position: fixed;
@@ -97,7 +98,7 @@ body {
 
 .parallax { 
 	width: 100%;
-	height: 100vh;
+	height: 50vh;
 	background-image: url(../images/UNH_CPTC.jpg);
 	background-attachment: fixed;
 	background-position: center;

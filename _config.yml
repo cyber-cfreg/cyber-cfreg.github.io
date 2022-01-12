@@ -19,7 +19,6 @@ plugins:
   - jekyll-sitemap
   - jekyll-admin
 
-
 defaults:
   -
     scope:
