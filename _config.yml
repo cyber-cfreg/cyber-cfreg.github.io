@@ -19,13 +19,29 @@ plugins:
   - jekyll-sitemap
   - jekyll-admin
 
+
+defaults:
+  -
+    scope:
+      path: ""
+      type: "posts"
+    values:
+      layout: "post"
+
+future: true
+plugins:
+  - jekyll-seo-tag
+  - jekyll-paginate
+  - jekyll-sitemap
+  - jekyll-admin
+
 # build settings
 markdown: kramdown
 sass:
   sass_dir: _sass
   style: compressed
 
-  
+
 jekyll_admin:
   hidden_links:
     - pages
