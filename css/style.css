@@ -24,6 +24,9 @@ body {
     position: fixed;
     line-height: 65px;
     text-align: center;
+    border-top-style: solid;
+    border-top-width: 5px;
+    border-top-color: #003169;
 }
 
 .nav div.logo {
