@@ -2,12 +2,14 @@
 layout: default
 title: Home
 ---
+<div class="divider-line">
+    <p align="center">
+        <img src="/images/CIT_seal.png" alt="CIT seal" height=400px/>
+        <img src="/images/tech-thru-lens.png" alt="Tech Through Lens Slogan" height=400px/>
+    </p>
+</div>
 
-<p align="center">
-    <img src="/images/CIT_seal.png" alt="CIT seal" height=400px/>
-    <img src="/images/tech-thru-lens.png" alt="Tech Through Lens Slogan" height=400px/>
-
-</p>
+<div class="info" style="margin-left: 5em;margin-right: 5em;" />
 
 ## University of New Haven Hacking Club Meetings
 
