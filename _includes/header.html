@@ -1,23 +1,24 @@
 {% include head.html %}
 <body>
-    <nav class="nav">
-        <div class="container">
+    <nav class="nav navbar navbar-expand-lg">
             <div class="logo">
-                <a href="#">cyber@cfreg</a>
+                <a class="navbar-brand" href="#">cyber@cfreg</a>
             </div>
-            <div id="mainListDiv" class="main_list">
-                <ul class="navlinks">
-                    <li><a href="{{ "/" | prepend: site.baseurl | replace: '//', '/' }}">Home</a></li>
-                    <li><a href="{{ "/about" | prepend: site.baseurl | replace: '//', '/' }}">About</a></li>
-                    <li><a href="{{ "/events" | prepend: site.baseurl | replace: '//', '/' }}">Events</a></li>
-                    <li><a href="{{ "/resources" | prepend: site.baseurl | replace: '//', '/' }}"">Resources</a></li>
-                    <li><a href="{{ "/contact" | prepend: site.baseurl | replace: '//', '/' }}">Contact</a></li>
-                </ul>
+
+            <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+                <span class="navbar-toggler-icon"></span>
+            </button>
+
+            <div class="collapse navbar-collapse text-right flex-grow-1 w-100" id="navbarNav">
+                
+                    <ul class="navlinks navbar-nav ms-auto flex-nowrap">
+                        <li class="nav-item"><a class="nav-link menu-item" href="{{ "/" | prepend: site.baseurl | replace: '//', '/' }}">Home</a></li>
+                        <li class="nav-item"><a class="nav-link menu-item" href="{{ "/about" | prepend: site.baseurl | replace: '//', '/' }}">About</a></li>
+                        <li class="nav-item"><a class="nav-link menu-item" href="{{ "/events" | prepend: site.baseurl | replace: '//', '/' }}">Events</a></li>
+                        <li class="nav-item"><a class="nav-link menu-item" href="{{ "/resources" | prepend: site.baseurl | replace: '//', '/' }}"">Resources</a></li>
+                        <li class="nav-item"><a class="nav-link menu-item" href="{{ "/contact" | prepend: site.baseurl | replace: '//', '/' }}">Contact</a></li>
+                    </ul>
+               
             </div>
-            <span class="navTrigger">
-                <i></i>
-                <i></i>
-                <i></i>
-            </span>
-        </div>
+        
     </nav>
