@@ -161,18 +161,21 @@ body {
  }
 
 h1{
-    font-size: 60px;
+    font-size: 6rem;
+    word-wrap: break-word;
 }
-h2 {
-    font-size: 48px;
-
+h2{
+    font-size: 4rem;
+    word-wrap: break-word;
 }
 h3 {
-    font-size: 28px;
+    font-size: 2.8rem;
+    word-wrap: break-word;
 
 }
 p,li {
-    font-size: 20px;
+    font-size: 2rem;
+    word-wrap: break-word;
 
 }
 
