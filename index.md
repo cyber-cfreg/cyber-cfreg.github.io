@@ -2,13 +2,15 @@
 layout: default
 title: Home
 ---
-<div class="divider-line" id="inner-wrap">
-    <p align="center">
-        <img src="/images/CIT_seal.png" alt="CIT seal" height=400px/>
-        <img src="/images/tech-thru-lens.png" alt="Tech Through Lens Slogan" height=400px/>
-        <!-- <img src="/images/ct-cyber.jpeg" alt="CT Cyber Graph" height=400px/> -->
-    </p>
+<div class="row">
+    <div class="col-sm-6">
+        <img src="/images/CIT_seal.png" alt="CIT seal" width="100%"/>
+    </div>
+    <div class="col-sm-6 vertCenter">
+        <img src="/images/tech-thru-lens.png" alt="Tech Through Lens Slogan" width="100%"/>
+    </div>
 </div>
+<div class="divider-line" id="inner-wrap"></div>
 
 ## University of New Haven Hacking Club Meetings
 
@@ -23,10 +25,10 @@ The University of New Haven's cybersecurity club, cyber@cfreg, is a student ran 
 <div class="divider-line" id="inner-wrap"></div>
 # Sponsors
 
-<p align="center">
-    <img src="/images/digitalocean.png" alt="DigitalOcean" height=100px/>
-    <img src="/images/teamspeak-3.svg" alt="DigitalOcean" height=100px/>
-    <img src="/images/red-hat.png" alt="DigitalOcean" height=100px/>
-</p>
+<div class="row">
+    <div class="col-sm-12 col-md-4 vertCenter"><center><img src="/images/digitalocean.png" alt="DigitalOcean" width="100%"/></center></div>
+    <div class="col-sm-12 col-md-4 vertCenter"><center><img src="/images/teamspeak-3.svg" alt="TeamSpeak" width="100%"/></center></div>
+    <div class="col-sm-12 col-md-4 vertCenter"><center><img src="/images/red-hat.png" alt="RedHat" width="100%"/></center></div>
+</div>
 \
 &nbsp;
