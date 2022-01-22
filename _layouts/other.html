@@ -8,7 +8,12 @@
     <div class="container">
         <div class="info" style="margin-left: 5em;margin-right: 5em;">
             <center><p class="header">{{ page.title }}<p></center>
+            <center> {% if page.author %}<h2>Written by: {{page.author}}</h2>{% endif %}</center>
+            <center>{% if page.date %}<h2> Date: {{ page.date | date: "%-d %B %Y" }}</h2>{% endif %}</center>
+            
             <div class="divider-line" id="inner-wrap"></div>
+            <p><br></p>
+
 {{ content }}
 
 {% include footer.html %}
