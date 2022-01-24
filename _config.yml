@@ -10,22 +10,7 @@ defaults:
       path: ""
       type: "posts"
     values:
-      layout: "post"
-
-future: true
-plugins:
-  - jekyll-seo-tag
-  - jekyll-paginate
-  - jekyll-sitemap
-  - jekyll-admin
-
-defaults:
-  -
-    scope:
-      path: ""
-      type: "posts"
-    values:
-      layout: "post"
+      layout: "other"
 
 future: true
 plugins:
