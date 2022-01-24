@@ -1,21 +1,31 @@
-## Welcome to GitHub Pages
+## University of New Haven - cyber@cfreg Website
 
-jekyll serve --watch --port 8000
+![University of New Haven CIT Banner Logo](images/unh_logo_banner.png)
 
-You can use the [editor on GitHub](https://github.com/cyber-cfreg/cyber-cfreg.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+cyber@cfreg Website URL: [https://hack.newhaven.edu/](https://hack.newhaven.edu/)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+This website serves the purpose of creating a central location for information about cyber@cfreg, a student run organization at the University of New Haven which is often referred to as the hacking club. It also holds a record of the competition placements achieved hack@cfreg, the competitive hacking team for the University of New Haven.
 
-### Markdown
+This website was initially designed by [@CharlesBarone](https://github.com/CharlesBarone) and then ammended to a [Jekyll](https://jekyllrb.com/) template by [@samuelzurowski](https://github.com/samuelzurowski).
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## Contribution Guidelines
+
+Development is done in the `staging` branch, then merged into the `main` branch when it is ready to be published.
+
+New pages should use the `other` page layout and be created as markdown files in the root directory of the repository.
+#### Example New Page
+
+[Jekyll](https://jekyllrb.com/) allows us to quickly and easily create pages using markdown language as seen below:
 
 ```markdown
-Syntax highlighted code block
+---
+layout: other
+title: NewPage
+---
 
-# Header 1
-## Header 2
-### Header 3
+# SubTitle 1
+
+### SubSubTitle
 
 - Bulleted
 - List
@@ -23,17 +33,30 @@ Syntax highlighted code block
 1. Numbered
 2. List
 
-**Bold** and _Italic_ and `Code` text
+# SubTitle 2
 
-[Link](url) and ![Image](src)
+Example new page text!
+\
+&nbsp;
+\
+&nbsp;
 ```
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+For more information about markdown formatting refer to [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
 
-### Jekyll Themes
+Whenever a commit is made to the `main` branch of this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the site, from the content in the markdown files.
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/cyber-cfreg/cyber-cfreg.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+## Test cyber@cfreg Website Locally
 
-### Support or Contact
+The following command will allow you to locally run the website on port 8000, assuming you have [Jekyll](https://jekyllrb.com/) installed. It will automatically rebuild the website every time a file is updated.
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+`jekyll serve --watch --port 8000`
+
+### How to make a new announcement post
+
+Posts on the Announcements page are managed by navigating to `/admin` on a local instance of the website. Once there, you can then navigate to `Posts` using the left sidebar navigation. New posts can be made using this tool and then published by pushing a commit to the git repository.
+
+
+## Contact cyber@cfreg
+
+Need to contact someone from cyber@cfreg? Feel free to join our [Discord](https://dsc.gg/cyberatcfreg) or visit the [contact page](https://hack.newhaven.edu/contact) for more information about how to reach us.
