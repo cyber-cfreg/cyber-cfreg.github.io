@@ -15,8 +15,15 @@ The University of New Haven’s cybersecurity club, cyber@cfreg, is a student ra
 - Samuel Zurowski (2018-2021)
 - TJ Balon (2016-2018)
 
+> ##  Hacking Team Coach
+- Mohamad Nassar
+
 
 # Competition Placements
+
+>### CCDC 2022
+- Qualified for Regionals
+- Team Members: Charles Barone, Nicholas Dubois, Matthew Smith, Mateusz Wiszniewski, Ryan Stapleton, Zachary Trowbridge, Jonathan Chute, Devyn Souza
 
 >### CPTC 2021
 - 2nd Place New England Regionals
