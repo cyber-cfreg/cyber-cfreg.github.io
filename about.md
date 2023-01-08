@@ -11,7 +11,8 @@ The University of New Haven’s cybersecurity club, cyber@cfreg, is a student ra
 
 
 > ##  Club Presidents
-- Charles Barone (2021-Present)
+- Nicholas Dubois (2023-Present)
+- Charles Barone (2021-2023)
 - Samuel Zurowski (2018-2021)
 - TJ Balon (2016-2018)
 
@@ -20,6 +21,10 @@ The University of New Haven’s cybersecurity club, cyber@cfreg, is a student ra
 
 
 # Competition Placements
+
+>### CPTC 2022
+- 3rd Place at New England Regionals
+- Team Members: Charles Barone, Nicholas Dubois, Matthew Smith, Mateusz Wiszniewski, Ryan Stapleton, Jonathan Chute, Zachary Trowbridge
 
 >### CCDC 2022
 - Qualified for Regionals
