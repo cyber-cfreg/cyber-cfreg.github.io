@@ -18,9 +18,9 @@ title: Home
 
 **MEETING TIMES WILL BE ANNOUNCED AT THE BEGINNING OF THE SPRING 2022 SEMESTER**
 
-# About cyber@cfreg
+# About cyber@CIT
 
-The University of New Haven's cybersecurity club, cyber@cfreg, is a student ran cybersecurity organization dedicated sharing knowledge related to cybersecurity. The club runs weekly meetings to allow students to engage in the practical application of cybersecurity concepts. The club consists of a competitive team that competes in competitions known as hack@cfreg. 
+The University of New Haven's cybersecurity club, cyber@CIT, is a student ran cybersecurity organization dedicated sharing knowledge related to cybersecurity. The club runs weekly meetings to allow students to engage in the practical application of cybersecurity concepts. The club consists of a competitive team that competes in competitions known as hack@CIT. 
 
 <div class="divider-line" id="inner-wrap"></div>
 # Sponsors
