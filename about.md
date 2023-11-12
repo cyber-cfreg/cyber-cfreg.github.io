@@ -17,7 +17,7 @@ The University of New Haven’s cybersecurity club, cyber@cfreg, is a student ra
 - TJ Balon (2016-2018)
 
 > ##  Hacking Team Coach
-- MArk Morton
+- Mark Morton
 
 
 # Competition Placements
