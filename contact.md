@@ -5,7 +5,7 @@ title: Contact
 
 # Club President Email
 
-### cbaro4(at)unh(dot)newhaven(dot)edu
+### jchut1(at)unh(dot)newhaven(dot)edu
 
 # Join Our Discord
 
