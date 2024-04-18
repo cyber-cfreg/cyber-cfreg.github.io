@@ -15,12 +15,30 @@ The University of New Haven’s cybersecurity club, cyber@cfreg, is a student ra
 - Charles Barone (2021-2023)
 - Samuel Zurowski (2018-2021)
 - TJ Balon (2016-2018)
+- James Herbert (2015-2016)
 
 > ##  Hacking Team Coach
 - Mark Morton
 
 
 # Competition Placements
+
+
+>### CCDC 2024
+- Qualified for Regionals
+- Team Members: Jonathan Chute, Will Turner, Ryan Stapleton, Ronald Scarpa, Jordan Saleh, Jessica Berrios
+
+>### ISTS 2024
+- 3rd Place
+- Team Members: Jonathan Chute, Will Turner, Ryan Stapleton, Ronald Scarpa, Jordan Saleh
+
+>### CPTC 2023
+- 3rd Place at New England Regionals
+- Team Members: Jonathan Chute, Nicholas Dubois, Will Turner, Ryan Stapleton, Ronald Scarpa, Jordan Saleh
+
+>### CCDC 2023
+- Qualified for Regionals
+- Team Members: Jonathan Chute, Nicholas Dubois, Ryan Stapleton, Ronald Scarpa, Jordan Saleh, Zachary Trowbridge
 
 >### CPTC 2022
 - 3rd Place at New England Regionals
