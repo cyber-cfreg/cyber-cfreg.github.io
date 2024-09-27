@@ -18,7 +18,8 @@ The University of New Haven’s cybersecurity club, cyber@cfreg, is a student ra
 - James Herbert (2015-2016)
 
 > ##  Hacking Team Coach
-- Mark Morton
+- Murat Gunestas (2024-present)
+- Mark Morton (2023-2024)
 
 
 # Competition Placements
@@ -26,7 +27,7 @@ The University of New Haven’s cybersecurity club, cyber@cfreg, is a student ra
 
 >### CCDC 2024
 - Qualified for Regionals
-- Team Members: Jonathan Chute, Will Turner, Ryan Stapleton, Ronald Scarpa, Jordan Saleh, Jessica Berrios
+- Team Members: Jonathan Chute, Will Turner, Ryan Stapleton, Ronald Scarpa, Jordan Saleh, Jessica Berrios, Matthew Liselli, Nicholas Dellagrotte
 
 >### ISTS 2024
 - 3rd Place
@@ -56,7 +57,7 @@ The University of New Haven’s cybersecurity club, cyber@cfreg, is a student ra
 >### CCDC 2021
 - 2nd Place Northeast Regionals 
 - Advanced to National Wildcards
-- Team Members: Charles Barone, Samuel Zurowski, Mathew Piscitelli, Tyler Thomas, Nicholas Dubois, Robert Serafin, Steven Atilho,  Killian Meehan, Destiny Ray, Alex Sitterer
+- Team Members: Charles Barone, Samuel Zurowski, Mathew Piscitelli, Tyler Thomas, Nicholas Dubois, Robert Serafin, Steven Atilho,  Killian Meehan, Destiny Ray, Xenia Sitterer
 
 >### CPTC 2020
 - 3rd Place at New England Regionals
