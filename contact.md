@@ -3,13 +3,10 @@ layout: other
 title: Contact
 ---
 
-# Club President Email
-
-### jchut1(at)unh(dot)newhaven(dot)edu
-
 # Join Our Discord
 
-<iframe src="https://discord.com/widget?id=275780303476359168&theme=dark" width="500" height="500" allowtransparency="true" frameborder="0" sandbox="allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts"></iframe>
+<a href="https://discord.gg/Au9bQBen">Click here to join the Discord.</a>
+<!--iframe src="https://discord.com/widget?id=275780303476359168&theme=dark" width="500" height="500" allowtransparency="true" frameborder="0" sandbox="allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts"></iframe-->
 
 # Note
 
