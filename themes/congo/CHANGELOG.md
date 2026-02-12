@@ -6,6 +6,75 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 
 ## [Unreleased]
 
+## [2.13.0] - 2026-01-20
+
+### Added
+
+- New `script` parameter for Umami Analytics to allow self-hosted deployments ([#1103](https://github.com/jpanther/congo/pull/1103))
+
+### Changed
+
+- Upgrade to Mermaid v11.12.2 ([#1087](https://github.com/jpanther/congo/pull/1087), [#1123](https://github.com/jpanther/congo/pull/1123))
+- Upgrade to ChartJS v4.5.1 ([#1131](https://github.com/jpanther/congo/pull/1131))
+- Upgrade to Tailwind v3.4.19 ([#1132](https://github.com/jpanther/congo/pull/1132))
+- Upgrade to Typography v0.5.19 ([#1133](https://github.com/jpanther/congo/pull/1133))
+- Upgrade to KaTeX v0.16.27 ([#1136](https://github.com/jpanther/congo/pull/1136))
+
+### Fixed
+
+- Code copy button not working when `noClasses` is set to `true` ([#1091](https://github.com/jpanther/congo/pull/1091))
+- `rel` parameter not added to links when specified in menu configuration ([#1116](https://github.com/jpanther/congo/pull/1116))
+- Certain KaTeX mathematical expressions not being parsed correctly in Markdown ([#1121](https://github.com/jpanther/congo/issues/1121))
+- References to `_internal` templates that no longer apply in the new Hugo templating system ([#1124](https://github.com/jpanther/congo/issues/1124))
+- Deprecated references to `_build` front matter key in Hugo v0.145.0 or later
+
+## [2.12.2] - 2025-07-13
+
+### Added
+
+- New icon for `strava` ([#1081](https://github.com/jpanther/congo/pull/1081))
+
+### Changed
+
+- Upgrade to Mermaid v11.8.1 ([#1084](https://github.com/jpanther/congo/pull/1084))
+- Updated Korean translation ([#1078](https://github.com/jpanther/congo/pull/1078))
+
+## [2.12.1] - 2025-06-23
+
+### Fixed
+
+- `figure` shortcode would load recursively when using the `default` paramater ([#1074](https://github.com/jpanther/congo/issues/1074))
+- Some partials not loading due to incorrect file paths ([#1075](https://github.com/jpanther/congo/pull/1075))
+
+## [2.12.0] - 2025-06-22
+
+### Added
+
+- Loading spinner while populating search results ([#1025](https://github.com/jpanther/congo/pull/1025))
+- New `canonicalUrl` parameter support in article front matter ([#1046](https://github.com/jpanther/congo/pull/1046))
+- New icons for `goodreads`, `podcast` and `rss` ([#1057](https://github.com/jpanther/congo/pull/1057), [#1072](https://github.com/jpanther/congo/pull/1072))
+
+### Changed
+
+- ⚠️ Required Hugo version is now 0.146.0 or later
+- Layouts directory restructured to align with [new Hugo templating data structure](https://gohugo.io/templates/new-templatesystem-overview/)
+- Absolute URLs are now preferred over relative URLs
+- Upgrade to Mermaid v11.7.0 ([#1035](https://github.com/jpanther/congo/pull/1035), [#1040](https://github.com/jpanther/congo/pull/1040))
+- Upgrade to KaTeX v0.16.22 ([#1048](https://github.com/jpanther/congo/pull/1048))
+- Upgrade to ChartJS v4.5.0 ([#1052](https://github.com/jpanther/congo/pull/1052), [#1067](https://github.com/jpanther/congo/pull/1067))
+- Updated Czech translation ([#1055](https://github.com/jpanther/congo/pull/1055))
+
+### Fixed
+
+- Logo and dark logo display is reversed when switching appearance ([#939](https://github.com/jpanther/congo/issues/939))
+- Shortcodes placed after code blocks with line numbers are rendered with incorrect spacing ([#987](https://github.com/jpanther/congo/issues/987))
+- Some localised date formats would be incorrectly formatted as Markdown ([#1028](https://github.com/jpanther/congo/pull/1028))
+- Anchor links in articles displayed incorrectly in dark mode ([#1041](https://github.com/jpanther/congo/pull/1041))
+- Error building site due to template system changes in Hugo v0.146.0 or later ([#1049](https://github.com/jpanther/congo/issues/1049), [#1073](https://github.com/jpanther/congo/pull/1073))
+- Style is not rendered for Chroma GenericDeleted items ([#1059](https://github.com/jpanther/congo/issues/1059))
+- Tag listing pages not generating links to articles ([#1061](https://github.com/jpanther/congo/issues/1061))
+- Article sharing links for LINE contained invalid URLs ([#1065](https://github.com/jpanther/congo/pull/1065))
+
 ## [2.11.0] - 2025-02-24
 
 ### Added
@@ -950,7 +1019,11 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 - Advanced customisation using simple Tailwind colour definitions and styles
 - Fully documented
 
-[Unreleased]: https://github.com/jpanther/congo/compare/v2.11.0...HEAD
+[Unreleased]: https://github.com/jpanther/congo/compare/v2.13.0...HEAD
+[2.13.0]: https://github.com/jpanther/congo/compare/v2.12.2...v2.13.0
+[2.12.2]: https://github.com/jpanther/congo/compare/v2.12.1...v2.12.2
+[2.12.1]: https://github.com/jpanther/congo/compare/v2.12.0...v2.12.1
+[2.12.0]: https://github.com/jpanther/congo/compare/v2.11.0...v2.12.0
 [2.11.0]: https://github.com/jpanther/congo/compare/v2.10.0...v2.11.0
 [2.10.0]: https://github.com/jpanther/congo/compare/v2.9.0...v2.10.0
 [2.9.0]: https://github.com/jpanther/congo/compare/v2.8.2...v2.9.0
