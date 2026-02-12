@@ -52,7 +52,7 @@
   "line": {
     "icon": "line",
     "title": "sharing.line",
-    "url": "https://line.me/R/share?text=%s%s"
+    "url": "https://line.me/R/share?text=%s%%20%s"
   },
   "weibo": {
     "icon": "weibo",
